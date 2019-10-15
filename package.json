@@ -1,0 +1,27 @@
+{
+  "name": "assignment-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunbhati904/AssignmentSoftware.git"
+  },
+  "author": "Varun,Chandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunbhati904/AssignmentSoftware/issues"
+  },
+  "homepage": "https://github.com/varunbhati904/AssignmentSoftware#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "express-sessions": "^1.0.6",
+    "passport": "^0.4.0",
+    "passport-local-mongoose": "^5.0.1",
+    "session": "^0.1.0"
+  }
+}
